@@ -2,13 +2,16 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"/>
 </p>
 <h1 align="center">Hola, soy Eduardo Macías.</h1>
-<p align="center">Desarrollador Web Junior | Aspirante a Full Stack</p>
+
+<p align="center">
+  <strong>Desarrollador Web Junior</strong> | <em>Aspirante a Full Stack</em>
+</p>
 
 ---
 
 ## Sobre mí
 
-Desarrollador Web Junior con experiencia en HTML, CSS y JavaScript, especializado en crear interfaces intuitivas y responsivas. Actualmente explorando tecnologías backend para convertirme en Full Stack Developer. Comprometido con el aprendizaje continuo y el uso de herramientas como Git, GitHub y Linux para optimizar mi flujo de trabajo.
+Soy un Desarrollador Web Junior apasionado por la creación de interfaces intuitivas y responsivas. Tengo experiencia en HTML, CSS y JavaScript, y actualmente estoy explorando tecnologías backend para convertirme en un Full Stack Developer. Estoy comprometido con el aprendizaje continuo y utilizo herramientas como Git, GitHub y Linux para optimizar mi flujo de trabajo. Mi objetivo es seguir creciendo profesionalmente y contribuir a proyectos innovadores que marquen la diferencia.
 
 ## Habilidades
 
@@ -17,11 +20,13 @@ Desarrollador Web Junior con experiencia en HTML, CSS y JavaScript, especializad
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Herramientas:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Proyectos Destacados
 <p align="center">
@@ -46,6 +51,10 @@ Desarrollador Web Junior con experiencia en HTML, CSS y JavaScript, especializad
 
 ¡Me encantaría conectar contigo!
 
-*   **LinkedIn:** [herwingxtech](https://linkedin.com/in/herwingxtech)
+<p align="center">
+  <a href="https://linkedin.com/in/herwingxtech" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-¡En búsqueda de mi primera experiencia laboral, no dudes en contactarme si tienes alguna oportunidad!
+Estoy en búsqueda de mi primera experiencia laboral. No dudes en contactarme si tienes alguna oportunidad o simplemente quieres conectar y compartir conocimientos.
