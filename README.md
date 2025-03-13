@@ -24,6 +24,9 @@ Desarrollador Web Junior con experiencia en HTML, CSS y JavaScript, especializad
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Proyectos Destacados
+<p align="center">
+  <img src="./assets/mona-loading-dimmed-5da225352fd7.gif" width="75"/>
+</p>
 
 *Proyectos que reflejan mi enfoque y habilidades en el desarrollo web.*
 
